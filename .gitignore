@@ -1,0 +1,3 @@
+gui_static/**
+.vscode/**
+node_modules/**
